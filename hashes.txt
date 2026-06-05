@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Chest My Pillow
+
+This log tracks the cryptographic history and versioning for the song **Your Chest My Pillow** (your-chest-my-pillow).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-05T19:22:57.443040 | `v1` | `f97a0172947f4df611f7a6f72c7ffcee42a5c090745c72df3c7a9a51e701694d` | `b637abb82cbe600b76d8c0056eba6a2fb276105aeaaad31493beac83140c921b` | `2026-06-05_your-chest-my-pillow-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
