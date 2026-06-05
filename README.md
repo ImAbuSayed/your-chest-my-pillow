@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-chest-my-pillow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Your Chest My Pillow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-chest-my-pillow/) |
+| **Get License** | [Commercial Licensing for Your Chest My Pillow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-chest-my-pillow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your chest, my pillow, in the night
+> Holding each other in the fading light
+> Skin on skin, we take it slow
+> There is nowhere else I want to go
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
